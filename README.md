@@ -2,4 +2,4 @@
 
 A light syntax theme based on the colors used on Tycho's Awake album cover.
 
-![A screenshot of the theme.](http://i.imgur.com/yVXzgCE.png)
+![A screenshot of the theme.](http://i.imgur.com/vbniZ7g.png)
